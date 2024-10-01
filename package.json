@@ -1,0 +1,17 @@
+{
+  "name": "spotify-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "author": "Deniz Sofia Ulutas",
+  "license": "ISC",
+  "dependencies": {
+    "favicon": "^0.0.2",
+    "vite": "^5.4.8"
+  }
+}
